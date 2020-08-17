@@ -167,3 +167,9 @@
 	name = "EntCorp Kepi, assistant"
 	description = "A visored cap. Intended to be used with Orvlike reskin of EntCorp uniform."
 	restricted_roles = list("Assistant")
+
+/datum/gear/head
+	
+/datum/gear/head/circuitry
+	display_name = "headwear, circuitry (empty)"
+	path = /obj/item/clothing/head/circuitry 

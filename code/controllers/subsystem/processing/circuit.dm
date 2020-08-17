@@ -76,7 +76,14 @@ PROCESSING_SUBSYSTEM_DEF(circuit)
 		/obj/item/electronic_assembly/wallmount/tiny,
 		/obj/item/electronic_assembly/wallmount/light,
 		/obj/item/electronic_assembly/wallmount,
-		/obj/item/electronic_assembly/wallmount/heavy
+		/obj/item/electronic_assembly/wallmount/heavy,
+		/obj/item/clothing/under/circuitry,
+		/obj/item/clothing/gloves/circuitry,
+		/obj/item/clothing/glasses/circuitry,
+		/obj/item/clothing/shoes/circuitry,
+		/obj/item/clothing/head/circuitry,
+		/obj/item/clothing/ears/circuitry,
+		/obj/item/clothing/suit/circuitry
 		///obj/item/weapon/implant/integrated_circuit
 		)
 

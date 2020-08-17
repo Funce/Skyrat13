@@ -9,3 +9,7 @@
 	category = SLOT_HANDS
 	path = /obj/item/paicard
 	cost = 2
+
+/datum/gear/gloves/circuitry
+	display_name = "gloves, circuitry (empty)"
+	path = /obj/item/clothing/gloves/circuitry 
