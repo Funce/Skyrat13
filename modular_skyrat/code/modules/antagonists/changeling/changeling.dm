@@ -1,3 +1,7 @@
+/datum/antagonist/changeling/proc/forge_objectives()
+	//NO MORE TG OBJECTIVES
+	return
+
 /datum/antagonist/changeling/roundend_report()
 	var/list/parts = list()
 
